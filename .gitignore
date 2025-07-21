@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node.js / Next.js
+dashboard/node_modules/
+dashboard/.next/
+dashboard/out/
+
+# Application-generated files
+temp_uploads/
+transformed_videos/
+gradcam_output/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db

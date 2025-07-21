@@ -1,0 +1,15 @@
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+opencv-python
+mtcnn
+PyWavelets
+torch
+torchvision
+tqdm
+scenedetect
+Flask
+Flask-Cors
