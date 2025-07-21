@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PixelTrue: AI-Powered Deepfake Detection System
 
 PixelTrue is a full-stack web application designed for the advanced detection of deepfakes in both images and videos. It leverages a powerful AI model (Xception) and provides a detailed, user-friendly dashboard to visualize the analysis results.
@@ -172,6 +171,3 @@ The dashboard will update in real-time to show the analysis progress and display
 ├── train_videos.py         #
 └── requirements.txt        # Python dependencies
 =======
-# PixelTrue---A-Deepfake-Detection-Application
-PixelTrue is a sophisticated, full-stack web application built to identify deepfakes in both images and videos. At its core, it uses a powerful AI model to analyze media files and determine if they are authentic or have been synthetically manipulated.
->>>>>>> 69296c2c637924daac9ad8ffa3bee91167085004
