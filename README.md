@@ -32,6 +32,16 @@ The application is built with a decoupled frontend and backend:
 -   **Frontend (Next.js):** A modern, responsive web application built with React/Next.js and styled with Tailwind CSS. It provides the user interface for file submission and presents the complex analysis data in an intuitive, interactive dashboard.
 
 ---
+
+## ⚙️ Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+-   **Python 3.10.6**
+-   **Node.js** (v18.x or later recommended) and **npm**
+-   A Python virtual environment tool like `venv`
+
+---
 ## 💾 Datasets
 The models were trained on a variety of datasets. You can access the specific datasets used for training and evaluation via the following link:
 
@@ -45,7 +55,6 @@ Before you begin, ensure you have the following installed:
 -   **Node.js** (v18.x or later recommended) and **npm**
 -   A Python virtual environment tool like `venv`
 
----
 
 ## 🚀 Installation & Setup
 
